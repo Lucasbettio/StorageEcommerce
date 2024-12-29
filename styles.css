@@ -214,6 +214,8 @@ body {
   background-color: #FFF;
 }
 
+/* Overlay em cima de cada foto */
+
 .overlay {
   position: absolute;
   top: 50%;
